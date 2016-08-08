@@ -1,5 +1,5 @@
 # UrlRouter
-通过Url来进行activity的跳转,此方案应用很广。也可用于Hybrid混合编程中
+通过Url来进行activity的跳转,此方案应用很广。也可用于Hybrid混合编程中。
 ## 功能描述
 点击按钮时，通过url来判断并进行页面的跳转。首先界面如下：
 
